@@ -1,0 +1,9 @@
+{
+    "TOKEN": "MTUxNzA3MzE2ODQ4Nzk0NDIzMg.GGrqv0.Wl1_PPkmsXhHuY7yQrJ4XVXVhvn2LRW6mnElKU",
+    "ROLE_ID": 1517073657921277982,
+    "LOG_CHANNEL_ID": 1517074459146846288,
+    "BANNED_WORDS": ["荒らし", "あらし", "spam_word_here"],
+    "SPAM_INTERVAL": 5,
+    "SPAM_LIMIT": 5,
+    "SPAM_VIOLATION_LIMIT": 3
+}
